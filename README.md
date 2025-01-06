@@ -1,2 +1,2 @@
 # JAVA-PRACTIS
-this is for funn and test.
+this is for fun and test.
